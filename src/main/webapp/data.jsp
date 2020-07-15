@@ -73,8 +73,7 @@
 	</table>
 	<br>
 	<br>
-	<h3 align="left" style="color:red"> Sever_IP<%= request.getLocalAddr() %> </h3>
-        <h1 align="left" style="color:green"> Vanguard Squad <h1>
+	<h1 align="left" style="color:green"> Vanguard Squad <h1>
         <h3 align="left">Jyoti, Mohini, Nishant, Ramprakash, Suman Rao </h3>
         <h1 align="left" style="color:blue"> Guided By: Senthil Alagarsamy </h1>
 
