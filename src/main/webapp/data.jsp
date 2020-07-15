@@ -72,7 +72,7 @@
 		</c:forEach>
 	</table>
 	<br>
-	<br>
+	<h2 align="left" style="color:red"> Server_IP <%= request.getLocalAddr() %> </h2>
 	<h1 align="left" style="color:green"> Vanguard Squad <h1>
         <h3 align="left">Jyoti, Mohini, Nishant, Ramprakash, Suman Rao </h3>
         <h1 align="left" style="color:blue"> Guided By: Senthil Alagarsamy </h1>
