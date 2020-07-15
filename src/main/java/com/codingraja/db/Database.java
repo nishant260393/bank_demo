@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 
 public class Database {
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
-	private static final String URL = "jdbc:mysql://15.206.231.90:3306/demo";
+	private static final String URL = "jdbc:mysql://172.31.43.124:3306/demo";
 	private static final String USERNAME = "inguser1";
 	private static final String PASSWORD = "H@ckath0n";
 	
