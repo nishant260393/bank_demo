@@ -76,7 +76,6 @@
 		</table>
 	</form>
 	<br>
-	<h3 align="left" style="color:red"> Sever_IP<%= request.getLocalAddr() %> </h3>
 	<h1 align="left" style="color:green"> Vanguard Squad <h1>
         <h3 align="left">Jyoti </h3>
         <h3 align="left">Mohini </h3>
