@@ -35,7 +35,7 @@
 </style>
 </head>
 <body>
-	<h1> Hi Welcome to ABC Bank feedback page.</h1>
+	<h1> Hi Welcome to the ABC Bank feedback page.</h1>
 	<h1 align="center"> Please submit your details, We will be back to you shortly.</h1>
 	<c:url value="/customer/register" var="registerUrl" />
 	<form action="${registerUrl}" method="post">
